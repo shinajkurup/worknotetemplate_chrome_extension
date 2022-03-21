@@ -1,0 +1,30 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    overflow: hidden;
+    background-color: rgba(224, 222, 185, 0.849);
+}
+
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+#content {
+    /* width: 100%; */
+    padding: 20px;
+    /* min-height: 80vh; */
+    min-height: 500px;
+}
+
+#textarea {
+    font-size: 12px;
+    resize: none;
+    white-space: pre-line;
+}
+
+#copyButton{
+    width: 150px;
+}
+
+
+
